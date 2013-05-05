@@ -52,5 +52,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/muddydixon/Data-Sample-SQL-Slow/issues"
+      },
+      "homepage" : "https://github.com/muddydixon/Data-Sample-SQL-Slow",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/muddydixon/Data-Sample-SQL-Slow.git",
+         "web" : "https://github.com/muddydixon/Data-Sample-SQL-Slow"
+      }
+   },
    "version" : "0.01"
 }
